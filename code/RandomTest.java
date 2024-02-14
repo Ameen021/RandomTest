@@ -2,7 +2,7 @@
 File Name : RandomTest.jav
 Author : Ameen SHW
 Date : 2/13/2024
-Discription : Print greetings and name. 
+Discription : Print greetings and put the username.
 */
 import java.util.Scanner;
 public class RandomTest {
